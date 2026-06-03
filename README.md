@@ -4,6 +4,19 @@
 
 ---
 
+---
+
+## Integrantes del equipo
+
+| Nombre |
+|---|
+| Alcantara Alviso Isaac |
+| Almaraz Mavil Ernesto |
+| Alvarado Martínez Miguel Eduardo |
+| Vargas Nicolas Gabriel |
+
+---
+
 ## Introducción
 Este proyecto se desarrolló a partir de la Encuesta Nacional de Ocupación y Empleo (ENOE/ENOEN) con el objetivo de construir una base de datos centralizada, normalizarla a tercera forma normal y posteriormente diseñar un esquema distribuido mediante fragmentación horizontal por periodo.
 
