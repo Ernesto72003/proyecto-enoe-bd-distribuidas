@@ -35,12 +35,12 @@ El proyecto incluye:
 ### Trabajo escrito
 Documento principal con la explicación completa del desarrollo del proyecto, desde el análisis inicial hasta la validación final y la migración a PostgreSQL.
 
-- [Ver trabajo escrito en PDF](docs/Trabajo_escrito.pdf)
+- [Ver trabajo escrito en PDF](./PROYECTO%20FINAL/docs/Trabajo_escrito.pdf)
 
 ### Scripts del proyecto
 Documento anexo que reúne los scripts utilizados en cada etapa del desarrollo, junto con la explicación de para qué sirve cada uno y qué se hizo en cada caso.
 
-- [Ver documento de scripts en PDF](docs/Scripts.pdf)
+- [Ver documento de scripts en PDF](./PROYECTO%20FINAL/docs/Scripts.pdf)
 
 ### Carpeta general de respaldos y archivos
 En esta carpeta se encuentran los respaldos del proyecto y los archivos complementarios de entrega.
