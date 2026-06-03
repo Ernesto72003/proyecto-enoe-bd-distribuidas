@@ -4,7 +4,6 @@
 
 ---
 
----
 
 ## Integrantes del equipo
 
